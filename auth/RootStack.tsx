@@ -22,5 +22,5 @@ const RootStack = () => {
     </Stack.Navigator>
   );
 };
-
+  
 export default RootStack;
